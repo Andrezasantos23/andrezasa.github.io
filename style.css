@@ -1,0 +1,123 @@
+/*Estilo do corpo da página*/
+
+body {
+
+font-family: Arial, Helvetica, sans-serif;
+line-height: 1,6;
+margin: 50px;
+padding: 20px;
+background-image: url(fundo40.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+/*Classe menu horizontal*/
+
+.menu_horizontal {
+font-size: x-large;
+margin: 80px;
+padding: 80px;
+display: flex;
+margin-right: 20%;
+
+
+}
+
+.sobre1 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+line-height: auto;
+margin: inherit;
+padding: auto;
+border: auto;
+font-weight: auto;
+background-image: url(back34.avif);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.acadêmica2 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+line-height: auto;
+margin: inherit;
+padding: auto;
+border: auto;
+font-weight: auto;
+background-image: url(back34.avif);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.profissional3 {
+background-image: url(back34.avif);
+background-repeat: no-repeat;
+background-size: cover;
+font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+line-height: auto;
+margin: inherit;
+padding: auto;
+border: auto;
+font-weight: auto
+
+}
+
+.contato4 {
+background-image: url(back34.avif);
+background-repeat: no-repeat;
+background-size: cover;
+font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+line-height: auto;
+padding: auto;
+border: auto;
+font-weight: auto
+
+
+
+}
+
+/*Área do formulário*/
+.contato_form {
+
+max-width: 600%;
+margin: 50px;
+padding: 20px;
+box-shadow: 0 0 10px;
+
+}
+
+.contato_form label {
+
+display: block;
+margin: 10px;
+color:black;
+
+}
+
+.contato_form input,
+.contato_form textarea {
+
+width: 100%;
+padding: 10px;
+border-radius: 4px;
+border: 1px solid;
+box-sizing: border-box;
+
+}
+
+.contato_form button {
+border-radius: 4px;
+padding: 10px 10px;
+border: none;
+cursor: pointer;
+margin-top: 10px;
+font-size: 15px;
+
+}
+
+
